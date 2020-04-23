@@ -2,7 +2,7 @@
 
 ## Authors 
 
-[Qingtao CAO](https://www.researchgate.net/profile/Qingtao_Cao), [Junyao Wang
+[Qingtao Cao](https://www.researchgate.net/profile/Qingtao_Cao), [Junyao Wang
 ](https://towardsdatascience.com)
 
 ## Abstract
