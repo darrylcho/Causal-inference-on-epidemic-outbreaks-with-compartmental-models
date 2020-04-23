@@ -1,9 +1,9 @@
-# Causal Models of a Particular Domain (Example Project)
+# Causal inference of the sociali policy on the epidemic outbreaks 
 
 ## Authors 
 
-[Robert Osazuwa Ness](https://www.linkedin.com/in/osazuwa/), [Author 2
-](https://towardsdatascience.com), [Author 3](https://www.khoury.northeastern.edu)
+[Qingtao CAO](https://www.researchgate.net/profile/Qingtao_Cao), [Junyao Wang
+](https://towardsdatascience.com)
 
 ## Abstract
 
