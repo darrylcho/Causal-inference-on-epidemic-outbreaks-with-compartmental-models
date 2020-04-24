@@ -1,4 +1,4 @@
-# Causal inference of the sociali policy on the epidemic outbreaks 
+# Causal inference of the policy on the epidemic outbreaks 
 
 ## Authors 
 
